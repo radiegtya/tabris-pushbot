@@ -12,4 +12,6 @@
     <author email="radiegtya@gmail.com" href="https://tabrisjs.com">
         Radiegtya
     </author>
+    <gap:plugin name="com.pushbots.push"/>
+    <access origin="*.pushbots.com" />
 </widget>
